@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+//struct Contacts{
+//    var name = ""
+//    var num = ""
+//}

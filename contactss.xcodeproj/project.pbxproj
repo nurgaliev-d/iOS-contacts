@@ -16,6 +16,8 @@
 		953272C52A2B804800F9943D /* contactssTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953272C42A2B804800F9943D /* contactssTests.swift */; };
 		953272CF2A2B804800F9943D /* contactssUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953272CE2A2B804800F9943D /* contactssUITests.swift */; };
 		953272D12A2B804800F9943D /* contactssUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953272D02A2B804800F9943D /* contactssUITestsLaunchTests.swift */; };
+		953272DE2A2B852F00F9943D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953272DD2A2B852F00F9943D /* TableViewController.swift */; };
+		953272E02A2B86A600F9943D /* contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953272DF2A2B86A600F9943D /* contacts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		953272CA2A2B804800F9943D /* contactssUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = contactssUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		953272CE2A2B804800F9943D /* contactssUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactssUITests.swift; sourceTree = "<group>"; };
 		953272D02A2B804800F9943D /* contactssUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactssUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		953272DD2A2B852F00F9943D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		953272DF2A2B86A600F9943D /* contacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contacts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				953272AD2A2B804700F9943D /* AppDelegate.swift */,
 				953272AF2A2B804700F9943D /* SceneDelegate.swift */,
 				953272B12A2B804700F9943D /* ViewController.swift */,
+				953272DF2A2B86A600F9943D /* contacts.swift */,
+				953272DD2A2B852F00F9943D /* TableViewController.swift */,
 				953272B32A2B804700F9943D /* Main.storyboard */,
 				953272B62A2B804800F9943D /* Assets.xcassets */,
 				953272B82A2B804800F9943D /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 				953272B22A2B804700F9943D /* ViewController.swift in Sources */,
 				953272AE2A2B804700F9943D /* AppDelegate.swift in Sources */,
 				953272B02A2B804700F9943D /* SceneDelegate.swift in Sources */,
+				953272DE2A2B852F00F9943D /* TableViewController.swift in Sources */,
+				953272E02A2B86A600F9943D /* contacts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
